@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Queue\Presentation\bin\Debug\Presentation.dll
+C:\Users\User\Desktop\Queue\Presentation\bin\Debug\Presentation.pdb
+C:\Users\User\Desktop\Queue\Presentation\bin\Debug\DataAccess.dll
+C:\Users\User\Desktop\Queue\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\User\Desktop\Queue\Presentation\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Queue\Presentation\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Queue\Presentation\obj\Debug\Business.csproj.Up2Date
+C:\Users\User\Desktop\Queue\Presentation\obj\Debug\Presentation.dll
+C:\Users\User\Desktop\Queue\Presentation\obj\Debug\Presentation.pdb
